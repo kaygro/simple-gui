@@ -11,4 +11,4 @@
 	       (:file "utils" )
 	       (:file "qt-utils")
                (:file "simple-gui"))
-  :depends-on (:qt :alexandria :cl-ppcre :named-readtables))
+  :depends-on (:qt :alexandria :cl-ppcre :named-readtables :qtools))
